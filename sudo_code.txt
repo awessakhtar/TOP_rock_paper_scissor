@@ -1,0 +1,37 @@
+rock paper siccors game
+
+requirements 
+HTML file
+CSS file
+script.js file
+
+JS implementation plan
+
+-   get what is clicked by user (Done)
+-   whatever out of three is pickuped by user display it on top of the page (done)
+-   make a random funciton in JS
+-   the funciton should select randomly from rock paper scissor
+
+-   put the computre selected item aside of user selectd item
+
+
+-   make logic to find who is the winner 
+-   create HTML elemnt annoucing the winner 
+
+-   continue the game for next round
+
+-   make five rounds of the game 
+-   store game result upto five
+
+
+
+
+
+
+
+HTML plan
+make a number of div for place hoder
+ -  user all three possible 
+ -  annouce winner
+ -  make a place to store results upto 5 games
+ -  make a button which can reset the game
